@@ -16,7 +16,7 @@ We aim to answer the following key questions:
 
 ---
 
-## Successful Alphas 
+## Successful Alpha Strategies
 **[Alpha 2](https://github.com/CyberSnorlax/ETF-Markowitz-Portfolio-Optimization/tree/Alpha2)** 
 - Long: Stocks trading above 200-day SMA, with ROE > 20% and Debt/Equity < 1
 - Short: Stocks trading below 200-day SMA, with ROE < 10% and Debt/Equity > 2
