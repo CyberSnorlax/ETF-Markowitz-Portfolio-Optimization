@@ -21,6 +21,10 @@ We aim to answer the following key questions:
 - Long: Stocks trading above 200-day SMA, with ROE > 20% and Debt/Equity < 1
 - Short: Stocks trading below 200-day SMA, with ROE < 10% and Debt/Equity > 2
 
+**Alpha 3 (Under Training)**
+- Long: ROIC > sector median Debt/Equity ↓ 10% YoY. 6-month price momentum > sector 75th percentile. RSI(14) < 60 (avoid overbought).
+- Short: ROIC < sector 25th percentile. Debt/Equity ↑ 10% YoY. 6-month price momentum < sector 25th percentile. RSI(14) > 40 (avoid oversold rebounds).
+
 ---
 
 ## 📊 Data Sources
