@@ -60,18 +60,14 @@ Predictions are aggregated to form an ensemble score → top 10 long / bottom 10
 
 ### ✅ Strategy (2024 Out-of-Sample Results):
 
-| Metric                | Value     |
-|-----------------------|-----------|
-| Total Return          | 88.4%     |
-| Annualized Return     | 99.5%     |
-| Annualized Volatility | 28.2%     |
-| Sharpe Ratio          | 3.46      |
-| Max Monthly Drawdown  | –12.5%    |
+| Metric                | Portfolio | S&P 500 |
+|-----------------------|-----------|---------|
+| Annualized Return     | 65.3%     | 12.2%   |
+| Annualized Volatility | 21.2%     | 11.6%   |
+| Sharpe Ratio          | 3.09      | 1.05    |
+| Max Monthly Drawdown  | -6.2%     | -5.8    |
 
-### 📉 Benchmark: S&P 500 (2024)
-- Return: **26.99%**
-- Volatility: **10.21%**
+![image](https://github.com/user-attachments/assets/edda1b89-e835-406c-97e5-6cc7c74f8764)
 
-![image](https://github.com/user-attachments/assets/d372450b-017d-4fc4-9e70-44382faf5c63)
+![image](https://github.com/user-attachments/assets/e4ee3f07-e423-4525-adc7-ae00e3685750)
 
-![image](https://github.com/user-attachments/assets/941299cb-4bc9-4452-89d1-91899959b52b)
